@@ -13,6 +13,7 @@
 		B387843429C042F900F74437 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B387843229C042F900F74437 /* Main.storyboard */; };
 		B387843629C042FB00F74437 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B387843529C042FB00F74437 /* Assets.xcassets */; };
 		B387843929C042FB00F74437 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B387843729C042FB00F74437 /* LaunchScreen.storyboard */; };
+		B387844129C045F600F74437 /* AisatsuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B387844029C045F500F74437 /* AisatsuViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B387843529C042FB00F74437 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B387843829C042FB00F74437 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B387843A29C042FB00F74437 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B387844029C045F500F74437 /* AisatsuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AisatsuViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B387842C29C042F900F74437 /* AppDelegate.swift */,
 				B387842E29C042F900F74437 /* SceneDelegate.swift */,
 				B387843029C042F900F74437 /* ViewController.swift */,
+				B387844029C045F500F74437 /* AisatsuViewController.swift */,
 				B387843229C042F900F74437 /* Main.storyboard */,
 				B387843529C042FB00F74437 /* Assets.xcassets */,
 				B387843729C042FB00F74437 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				B387843129C042F900F74437 /* ViewController.swift in Sources */,
 				B387842D29C042F900F74437 /* AppDelegate.swift in Sources */,
 				B387842F29C042F900F74437 /* SceneDelegate.swift in Sources */,
+				B387844129C045F600F74437 /* AisatsuViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
